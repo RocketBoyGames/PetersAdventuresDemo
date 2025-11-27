@@ -1,9 +1,9 @@
 const cacheName = "Rocket Boy Games-LanguageAdventures-1.0";
 const contentToCache = [
-    "Build/build web.loader.js",
-    "Build/build web.framework.js.unityweb",
-    "Build/build web.data.unityweb",
-    "Build/build web.wasm.unityweb",
+    "Build/PetersAdventuresDemo.loader.js",
+    "Build/PetersAdventuresDemo.framework.js.unityweb",
+    "Build/PetersAdventuresDemo.data.unityweb",
+    "Build/PetersAdventuresDemo.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
